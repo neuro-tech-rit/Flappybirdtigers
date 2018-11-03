@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <Mouse.h>
+
 //@author Hillary
 int min = 0;
 int max = 0;
